@@ -1,7 +1,7 @@
 const studentProfile = {
     firstName: "Yaser",
     lastName: "Mohammed",
-    email: "student@UIW.edu",
+    email: "students@UIW.edu",
     pidm: "12345",
     school:"University of the Incarnate Word (UIW)",
     gradeLevel:"Junior",
